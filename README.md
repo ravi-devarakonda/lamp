@@ -17,7 +17,8 @@ Install MYSQL framework:
 
 
 Check for the puppet modules:
-```ls /puppet/modules/
+```
+ls /puppet/modules/
 apache  concat  firewall  mysql  stdli
 ```
 
