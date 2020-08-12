@@ -1,5 +1,4 @@
-LAMP Automated
-================
+# LAMP Automated
 
 Test automated LAMP setup using Vagrant &amp; Puppet
 
