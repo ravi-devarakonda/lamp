@@ -1,7 +1,7 @@
 LAMP Automated
 ================
 
-This rep is to test automated LAMP setup using Vagrant &amp; Puppet
+Test automated LAMP setup using Vagrant &amp; Puppet
 
 **Additional documentation to install puppet modules which will install apache and my sql**
 
