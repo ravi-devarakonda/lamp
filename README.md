@@ -14,13 +14,7 @@ Install apache framework:
 Install MYSQL framework:
 ```puppet module install puppetlabs/mysql --target-dir /puppet/modules/```
 
-
-
-Check for the puppet modules:
-```
-ls /puppet/modules/
-apache  concat  firewall  mysql  stdli
-```
+Do an `ls /puppet/modules/` to see tha all modules are installed. You should see `apache`  `concat`  `firewall`  `mysql`  `stdli`
 
 
 we are using puppet module to install these modules, but there are a multitude of other methods you can use (from downloading the modules directly out of `Github` to using a tool like `librarian-puppet`). The point is that we need to ultimately get the modules into the modules directory in our shared puppet folder
