@@ -17,3 +17,5 @@ Do an `ls /puppet/modules/` to see that all modules are installed. You should se
 
 
 Though we are using `puppet module` command to install these modules, there are a multitude of other methods you can use (from downloading the modules directly out of `Github` to using a tool like `librarian-puppet`). The point is that we need to ultimately get the modules into the modules directory in our shared puppet folder
+>**Disclaimer**: This is a personal repository. All code, views or opinions, and any other content represented here are personal and belong solely to me and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated.<br>
+<br>*Also **please note**, resources deployed using these example scripts do incur charges. Make sure to terminate the deployed resources/services after your tests, to save/minimize your bills*
